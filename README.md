@@ -2,7 +2,7 @@
 <h1 align="center">Martin Lopez Ghisaura</h1>
 
 <p align="center">
-  <a href="www.linkedin.com/in/martin-lopez-ghisaura-808b38275" target="_blank">
+  <a href="https://www.linkedin.com/in/martin-lopez-ghisaura-808b38275" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:martinlopezghi@gmail.com">
