@@ -1,4 +1,26 @@
-# 👋 Hi there! I'm Martin Lopez Ghisaura
+<p align="center">
+  <img src="https://img.icons8.com/emoji/48/laptop-emoji.png" width="80" alt="emoji" />
+</p>
+
+<h1 align="center">Martin Lopez Ghisaura</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:martinlopezghi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/martinlopezghi">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Software Developer | Student | 🇦🇷 Mendoza, Argentina
+</p>
+
+---
 
 I'm a software developer with technical training and experience in full stack web development. I'm passionate about building useful, functional solutions, and I'm always looking for new challenges to keep learning and growing professionally.
 
