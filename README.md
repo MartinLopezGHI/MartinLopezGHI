@@ -44,10 +44,11 @@ I'm a software developer with technical training and experience in full stack we
 
 ## 🛠️ Skills & Technologies
 
-- HTML, CSS, JavaScript, Java, C++, Python, SQL  
-- React, Node.js, Spring, Git  
-- AWS Cloud Foundations & Cloud Operations  
-- Kubernetes, Office Suite
+- HTML, Css, JavaScript, Php
+- Java, C++, Python
+- SQL, React, Node.js, Spring
+- Git, AWS, Kubernetes
+- Android, Office
 
 ---
 
