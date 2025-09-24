@@ -1,5 +1,5 @@
 
-<h1 align="center">Martin Lopez Ghisaura</h1>
+<h1 align="center">Martín López Ghisaura</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/martin-lopez-ghisaura-808b38275" target="_blank">
